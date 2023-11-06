@@ -12,3 +12,6 @@ This starter also demonstrates how to get tree-shaking working in Vite dev serve
 
 - Vite dev server doesn't play nice with [Barrel files](https://petermekhaeil.com/til/js-barrel-files/).
 - It's common to see packages have an entry file (`index.ts`) and all the source code under a `src` folder.
+- Internal packages do not have a build step. The apps importing the packages want to reference the source for fast [HMR](https://vitejs.dev/guide/features.html#hot-module-replacement).
+
+### How to reference source code without a Barrel file?
