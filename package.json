@@ -1,0 +1,10 @@
+{
+  "name": "vite-monorepo",
+  "private": true,
+  "description": "Monorepo with Vite",
+  "keywords": [
+    "vite",
+    "monorepo"
+  ],
+  "author": "Peter Mekhaeil"
+}
