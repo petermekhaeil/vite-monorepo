@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Button = () => {
+const Table = () => {
   return (
     <div>
-      Button
+      Table
     </div>
   );
 };
 
-export { Button };
+export { Table };

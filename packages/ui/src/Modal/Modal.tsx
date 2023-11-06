@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Button = () => {
+const Modal = () => {
   return (
     <div>
-      Button
+      Modal
     </div>
   );
 };
 
-export { Button };
+export { Modal };

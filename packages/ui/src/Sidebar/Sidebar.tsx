@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Button = () => {
+const Sidebar = () => {
   return (
     <div>
-      Button
+      Sidebar
     </div>
   );
 };
 
-export { Button };
+export { Sidebar };

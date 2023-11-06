@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Button = () => {
+const Navbar = () => {
   return (
     <div>
-      Button
+      Navbar
     </div>
   );
 };
 
-export { Button };
+export { Navbar };

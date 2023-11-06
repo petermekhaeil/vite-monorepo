@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Button = () => {
+const Card = () => {
   return (
     <div>
-      Button
+      Card
     </div>
   );
 };
 
-export { Button };
+export { Card };
